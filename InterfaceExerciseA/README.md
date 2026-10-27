@@ -1,17 +1,18 @@
 # Övning 8 - Interface
 ## A)
-- [ ] Gör två klasser som heter program1 och en som heter program 2.
-- [ ] Den ena klassen ska ha en metod run() med returtyp void.
-- [ ] Den andra klassen ska ha en metod Go() också med returtyp void.
-- [ ] I metoderna skriver du ut ”Nu kör vi program 1” respektive ”nu kör vi
+- [x] Gör två klasser som heter program1 och en som heter program 2.
+- [x] Den ena klassen ska ha en metod run() med returtyp void.
+- [x] Den andra klassen ska ha en metod Go() också med returtyp void.
+- [x] I metoderna skriver du ut ”Nu kör vi program 1” respektive ”nu kör vi
 program 2”.
-- [ ] Skapa objekt för båda klasserna i main() och anropa metoderna.
-- [ ] Kommentera sedan bort anropet till metoderna och metoderna i klasserna.
-- [ ] Gör ett interface som har en metod start().
+- [x] Skapa objekt för båda klasserna i main() och anropa metoderna.
+- [x] Kommentera sedan bort anropet till metoderna och metoderna i klasserna.
+- [x] Gör ett interface som har en metod start().
 Implementera (använd) interfacet på båda klasserna.
-- [ ] Gör så att kontraktet för interfacet blir uppfyllt.
-- [ ] Vad är fördelen med interfacet jämfört med hur det var från början?
-- [ ] Skapa sedan ytterligare ett interface och lägg detta till första klassen. Lägg
+- [x] Gör så att kontraktet för interfacet blir uppfyllt.
+- [x] Vad är fördelen med interfacet jämfört med hur det var från början?
+	- Svar: Delat metodnamn och ser till att programmen följer kontraktet
+- [x] Skapa sedan ytterligare ett interface och lägg detta till första klassen. Lägg
 till valfri metod och se till att alla kontrakt uppfylls.
 
 ## B)
